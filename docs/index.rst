@@ -5,6 +5,8 @@ How to Login to Peacock TV: A Step-by-Step Guide
    :maxdepth: 2
    :caption: Contents:
 ________________________________________
+For login or activation, go to 👉 https://peacocktvaccount.net
+
 
 Peacock TV has quickly emerged as one of the most popular streaming services, providing a vast array of content, including movies, TV shows, live sports, and original programming. Whether you're a fan of NBC shows, classic films, or exclusive Peacock originals, having a Peacock TV login account is essential to unlocking all of these offerings. But how do you access and manage your account? This article will guide you through the process of logging into your Peacock TV account, troubleshooting common issues, and making the most out of your subscription.
 
